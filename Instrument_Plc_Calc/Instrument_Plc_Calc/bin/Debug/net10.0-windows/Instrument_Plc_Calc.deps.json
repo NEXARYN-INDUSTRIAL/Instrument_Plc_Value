@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Instrument_Plc_Calc/1.0.0": {
+        "runtime": {
+          "Instrument_Plc_Calc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Instrument_Plc_Calc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

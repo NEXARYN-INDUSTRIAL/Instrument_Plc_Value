@@ -1,0 +1,17 @@
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\bin\Debug\net10.0-windows\Instrument_Plc_Calc.exe
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\bin\Debug\net10.0-windows\Instrument_Plc_Calc.deps.json
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\bin\Debug\net10.0-windows\Instrument_Plc_Calc.runtimeconfig.json
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\bin\Debug\net10.0-windows\Instrument_Plc_Calc.dll
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\bin\Debug\net10.0-windows\Instrument_Plc_Calc.pdb
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\obj\Debug\net10.0-windows\Instrument_Plc_Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\obj\Debug\net10.0-windows\Instrument_Plc_Calc.AssemblyInfoInputs.cache
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\obj\Debug\net10.0-windows\Instrument_Plc_Calc.AssemblyInfo.cs
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\obj\Debug\net10.0-windows\Instrument_Plc_Calc.csproj.CoreCompileInputs.cache
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\obj\Debug\net10.0-windows\Instrument_Plc_Calc.dll
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\obj\Debug\net10.0-windows\refint\Instrument_Plc_Calc.dll
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\obj\Debug\net10.0-windows\Instrument_Plc_Calc.pdb
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\obj\Debug\net10.0-windows\Instrument_Plc_Calc.genruntimeconfig.cache
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\obj\Debug\net10.0-windows\ref\Instrument_Plc_Calc.dll
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\obj\Debug\net10.0-windows\Instrument_Plc_Calc.g.resources
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\obj\Debug\net10.0-windows\Instrument_Plc_Calc.Form1.resources
+C:\Users\stive\Documents\VS_Projects\Instrument_Plc\Instrument_Plc_Calc\Instrument_Plc_Calc\obj\Debug\net10.0-windows\Instrument_Plc_Calc.csproj.GenerateResource.cache
