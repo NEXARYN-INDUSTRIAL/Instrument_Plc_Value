@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Instrument_Plc_Calc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14697e5432144b96d3d3567f3c9d3baede8991a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5316bc390134fcc65965117ef3e9862608abe2a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Instrument_Plc_Calc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Instrument_Plc_Calc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
